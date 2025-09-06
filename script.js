@@ -216,7 +216,7 @@ window.toggleGroupDetail = toggleGroupDetail;
 /**
  * Music Player Logic
  */
-const audio = new Audio("https://files.cloudkuimages.guru/audios/K3r1glbU.mp3 "); // Ganti dengan URL musikmu
+const audio = new Audio("https://files.cloudkuimages.guru/audios/K3r1glbU.mp3"); // Ganti dengan URL musikmu
 const playBtn = document.getElementById("play-pause-btn");
 const playIcon = document.getElementById("play-icon");
 const pauseIcon = document.getElementById("pause-icon");
@@ -612,8 +612,8 @@ function addServiceWorker() {
  */
 function addPWAManifest() {
   const manifest = {
-    name: 'RaolByte Community',
-    short_name: 'RaolByte',
+    name: 'Tongkrongan Developer Community',
+    short_name: 'TongDev',
     description: 'Community Hub for Developers',
     start_url: '/',
     display: 'standalone',
