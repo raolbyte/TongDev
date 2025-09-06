@@ -1,18 +1,3 @@
-/*
- * This code was written by Azuan — with love, bugs, and late-night heartbreaks.
- * Supported by XiezuMedia, who believed in the chaos.
- *
- * © 2025 Zykuan & XiezuMedia. All rights reserved.
- * Feel free to use or cherish it, like a good ex...
- * But remove this watermark? That's like forgetting who loved you first.
- * And trust me — we notice.
- *
- * Don't ghost the author.
- * www.instagram.com/zuanxfnd
- */
-
-
-// Daftar grup WhatsApp yang akan ditampilkan di UI
 const groups = [
   {
     title: "Official Group 🌟",
@@ -231,7 +216,7 @@ window.toggleGroupDetail = toggleGroupDetail;
 /**
  * Music Player Logic
  */
-const audio = new Audio("https://files.catbox.moe/rrwrw6.mp3 "); // Ganti dengan URL musikmu
+const audio = new Audio("https://files.cloudkuimages.guru/audios/K3r1glbU.mp3 "); // Ganti dengan URL musikmu
 const playBtn = document.getElementById("play-pause-btn");
 const playIcon = document.getElementById("play-icon");
 const pauseIcon = document.getElementById("pause-icon");
